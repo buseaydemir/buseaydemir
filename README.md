@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @buseaydemir
-- 🌱 I’m currently learning studying BSc Mathematics at university
+- 🌱 I’m currently studying BSc Mathematics at university and learning to code using python
 - 👾 I'm also interested in machine learning and AI
