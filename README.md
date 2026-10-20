@@ -1,4 +1,4 @@
-## Hi, I’m Buse
+## Hi, I’m Busé
 
 Mathematics graduate and MSc Risk Management and Financial Engineering student at Imperial College London, interested in quantitative research, systematic trading and machine learning.
 
