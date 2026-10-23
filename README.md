@@ -10,7 +10,7 @@ Mathematics graduate and MSc Risk Management and Financial Engineering student a
   MSc Risk Management and Financial Engineering | 2026–2027
 
 - **Queen Mary University of London**  
-  BSc Mathematics — Upper Second Class Honours (2:1) | 2023–2026
+  BSc Mathematics | 2023–2026
 
 ---
 
