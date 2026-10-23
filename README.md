@@ -40,6 +40,9 @@ Mathematics graduate and MSc Risk Management and Financial Engineering student a
 - **Portfolio Optimisation**  
   Mean–variance portfolio analysis and efficient frontier construction.
 
+- **[VIX-Conditioned Short-Term Reversal](https://github.com/buseaydemir/vix-conditioned-reversal)**
+  Weekly sector-adjusted reversal strategy on S&P 500 stocks. Tested whether VIX-based position sizing improves after-cost returns, using rules frozen before backtesting and a single out-of-sample test (2018 to 2026). Found no reliable improvement.
+
 ---
 
 ### Interests
