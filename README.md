@@ -13,7 +13,7 @@ Mathematics graduate and MSc Risk Management and Financial Engineering student a
   BSc (Hons) Mathematics | 2023–2026
 
 - **Brampton Independent Sixth Form College**<br>
-  A-Levels: Mathematics (A), Chemistry (A), Turkish (A*), Biology (B) | 2021–2023
+  A-Levels: Turkish (A*), Mathematics (A), Chemistry (A), Biology (B) | 2021–2023
 ---
 
 ### Summer School
