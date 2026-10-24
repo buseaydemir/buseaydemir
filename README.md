@@ -12,8 +12,8 @@ Mathematics graduate and MSc Risk Management and Financial Engineering student a
 - **Queen Mary University of London**  
   BSc (Hons) Mathematics | 2023–2026
 
-- **Brampton Independant Sixth Form College**
-  A-Levels: Mathematics(A), Chemistry(A), Turkish(A*), Biology(B) | 2021-2023
+- **Brampton Independent Sixth Form College**<br>
+  A-Levels: Mathematics (A), Chemistry (A), Turkish (A*), Biology (B) | 2021–2023
 ---
 
 ### Summer School
